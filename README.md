@@ -11,5 +11,5 @@ You can also check out my Resume, LinkedIn or contact me via email:
 
 - **[LinkedIn](https://www.linkedin.com/in/daniil-mikheev/)**
 
-- **[DANIIL.MIKHEEV@baruchmail.cuny.edu](mailto:DANIIL.MIKHEEV@baruchmail.cuny.edu)**
+- **[dmikheeev@gmail.com](mailto:dmikheeev@gmail.com)**
 
