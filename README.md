@@ -1,6 +1,6 @@
 **Hi there 👋**
 
-My name is Daniil Mikheev and I am an **Data Analyst.**
+My name is Daniil Mikheev and I am an **Analytics Engineer**
 
 You can also check out my Resume, LinkedIn or contact me via email:
 
